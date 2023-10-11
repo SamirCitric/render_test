@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: current_date_time
+    env: docker
+    image: samircitricsheep/current_date_time:latest
